@@ -1,0 +1,4 @@
+[0307/103606.411:ERROR:exception_handler_server.cc(526)] ConnectNamedPipe: The pipe is being closed. (0xE8)
+[0307/185056.555:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0307/185343.468:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0307/200357.456:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
