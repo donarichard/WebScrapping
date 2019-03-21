@@ -33,10 +33,6 @@ public class Main {
         ArrayList<String> passwordList = new ArrayList();
         Process pp;
         Map<String, Object[]> data;
-        passwordList.add("dona@123");
-        passwordList.add("dona@123");
-        passwordList.add("dona@facebook");
-        passwordList.add("dona@123");
      //  read("C:\\Users\\admin1\\Downloads\\23.xls");
        // writeExcelFile();
        // readPDFInURL("https://smartweb.keralamvd.gov.in/kmvdnew/services/reports/eFeeReceipt421K287882017.pdf");
